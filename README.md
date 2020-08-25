@@ -4,4 +4,4 @@
 - 🤔 I’m looking for help with getting another job
 - 💬 Ask me about my hearing and sign language
 - ⚡ Fun fact: I can sign
-
+[![488315's github stats](https://github-readme-stats.vercel.app/api?username=488315)](https://github.com/488315/github-readme-stats)
