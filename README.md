@@ -34,7 +34,7 @@
 [![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
 ### 💻 Current Work Machine
-#### Dell G3 3579
+#### Asus TUF Z790 Gaming Wifi D5
 - Intel Core i9 13900k
 - NVIDIA GeForce RTX 4070
 - 48 DDR4 2666 MHZ RAM
