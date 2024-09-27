@@ -47,7 +47,7 @@
 | **Storage**        | [2 TB NVMe SSD]) (x1) <br> [1 TB NVMe SSD]() (x2) |
 
 #### **Operating Systems:**
-- 🪟 [Windows 11](https://www.microsoft.com/en-in/software-download/windows10)
+- 🪟 [Windows 11](https://www.microsoft.com/en-in/software-download/windows11)
 - 🐧 [Manjaro Linux](https://manjaro.org)
 - 📱 [Android 15](https://www.android.com/android-15/)
 
@@ -68,7 +68,7 @@
 
 ### 🛠 **Badges and Achievements**:
 
-[![@Kai's Holopin board](https://holopin.io/api/user/board?user=488315)](https://holopin.io/@488315)
+[![trophy](https://github-profile-trophy.vercel.app/?username=488315&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
