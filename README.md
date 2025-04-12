@@ -1,90 +1,36 @@
-<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Kai!</h2>
+<p align="left"> <a href="https://www.github.com/488315" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ctitus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://christitus.com/rss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=488315&style=flat-square"/> 
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ds488315&longCache=true"/>
-</p>
+### GitHub Stats
 
----
+<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
 
-### 👨‍💻 About Me:
+### 👷 Check out what I'm currently working on
 
-- 🌱 **Senior IT Technician** passionate about tech and problem-solving.
-- 🛠 I love exploring **Android Development** and **Cybersecurity**.
-- 🖥️ Actively maintaining my **Fire HD 8 (2018)** and working with custom ROMs.
-- 👀 Avid follower of **Open Source Projects**, particularly **AOSP**.
-- 📚 Always learning and expanding my skills, keeping up with the latest technologies.
-- 💬 Feel free to connect and chat about tech, gadgets, or anything you’re passionate about!
+- [mt8163/.github](https://github.com/mt8163/.github) - 
+- [minimal-systems/platform_system_core](https://github.com/minimal-systems/platform_system_core) - 
+- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
+- [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
+- [dmXq-development/android_device_samsung_gts9wifi](https://github.com/dmXq-development/android_device_samsung_gts9wifi) - 
+### 🌱 My latest projects
 
----
+- [488315/android_vendor_samsung_hardware-interfaces](https://github.com/488315/android_vendor_samsung_hardware-interfaces) - 
+- [488315/android_device_motorola_ellis](https://github.com/488315/android_device_motorola_ellis) - 
+- [488315/android_kernel_mediatek_mt6762](https://github.com/488315/android_kernel_mediatek_mt6762) - 
+- [488315/android_samsung_packages_apps_settings](https://github.com/488315/android_samsung_packages_apps_settings) - 
+- [488315/android_samsung_frameworks_base](https://github.com/488315/android_samsung_frameworks_base) - 
+### 🔨 My recent Pull Requests
 
-### ⚙️ **Languages & Tools I Work With:**
+- [Derp15.1](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi/pull/4) on [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi)
+- [Derp15](https://github.com/DaViDev985/device_samsung_sm8550-common/pull/1) on [DaViDev985/device_samsung_sm8550-common](https://github.com/DaViDev985/device_samsung_sm8550-common)
+- [e3q: import dts from `S928BXXS4AXJB`](https://github.com/samsung-sm8650/android_kernel_samsung_sm8650-devicetrees/pull/1) on [samsung-sm8650/android_kernel_samsung_sm8650-devicetrees](https://github.com/samsung-sm8650/android_kernel_samsung_sm8650-devicetrees)
+- [ Add Samsung Tab commits to main tree ( Refreshed)](https://github.com/guckesh/android_device_samsung_sm8550-common/pull/2) on [guckesh/android_device_samsung_sm8550-common](https://github.com/guckesh/android_device_samsung_sm8550-common)
+- [Add Samsung Tab commits to main tree](https://github.com/guckesh/android_device_samsung_sm8550-common/pull/1) on [guckesh/android_device_samsung_sm8550-common](https://github.com/guckesh/android_device_samsung_sm8550-common)
+### ⭐ Recent Stars
 
-| Languages | Frameworks/Tools | Devices |
-| --- | --- | --- |
-| C, C++, Bash, Python, Java (basics) | MongoDB, ExpressJS, ReactJS, NodeJS | Fire HD 8 (2018), Galaxy Tab S9, iPhone 14 Pro Max |
-| Shell Programming (Bash) | Gerrit | |
-| Android Development, Cybersecurity | | |
-
----
-
-### 💼 **Workstation Setup:**
-
-#### **Asus TUF Z790 Gaming Wifi D5** 💻  
-- **CPU**: Intel Core i9 13900K  
-- **GPU**: NVIDIA GeForce RTX 4070  
-- **RAM**: 48 GB DDR4 @ 2666 MHz  
-- **Storage**: 2 TB NVMe SSD + 1 TB NVMe SSD + 1 TB NVMe SSD  
-
-#### PCPartPicker Build:
-
-| **Component**      | **Details**                        |
-|--------------------|------------------------------------|
-| **CPU**            | [Intel Core i9-13900K](https://pcpartpicker.com/product/DhVmP6/intel-core-i9-13900k-3-ghz-24-core-processor-bx8071513900k) |
-| **Motherboard**    | [Asus TUF Z790 Gaming WiFi D5](https://pcpartpicker.com/product/GwRYcf/asus-tuf-gaming-z790-plus-wifi-d4-atx-lga1700-motherboard-tuf-gaming-z790-plus-wifi-d4) |
-| **GPU**            | [NVIDIA GeForce RTX 4070](https://pcpartpicker.com/product/PW3NnQ/pny-verto-geforce-rtx-4070-12-gb-video-card-vcg407012dfxpb1) |
-| **RAM**            | [48 GB DDR4-2666MHz]() |
-| **Storage**        | [2 TB NVMe SSD]) (x1) <br> [1 TB NVMe SSD]() (x2) |
-
-#### **Operating Systems:**
-- 🪟 [Windows 11](https://www.microsoft.com/en-in/software-download/windows11)
-- 🐧 [Manjaro Linux](https://manjaro.org)
-- 📱 [Android 15](https://www.android.com/android-15/)
-
----
-
-### ⚙️ **GitHub Stats:**
-
-<p align="center">
-<a href="https://github.com/488315">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=488315&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=488315&layout=compact&langs_count=8&theme=nightowl"/>
-</a>
-</p>
-
-[![Kai's GitHub | Languages Over Time](https://stats.quine.sh/488315/languages-over-time?theme=dark)](https://quine.sh)
-
----
-
-### 🛠 **Badges and Achievements**:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=488315&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🌐 **Let's Connect!**:
-
-<a href="https://twitter.com/kaijones23">
-  <img align="left" alt="Kai’s Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg"/>
-</a>
-<a href="https://t.me/kjones23">
-  <img align="left" alt="Kai’s Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/kaijones23">
-  <img align="left" alt="Kai’s LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/>
-</a> 
-<a href="https://xdaforums.com/m/kaijones23.9605864/#about">
-  <img align="left" alt="My XDA" width="22px" src="https://www.xda-developers.com/public/build/images/favicon-48x48.8f822f21.png"/>
-</a>
-
-<br><br>
+- [LineageOS/android_device_qcom_sepolicy_vndr](https://github.com/LineageOS/android_device_qcom_sepolicy_vndr) - 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [charlesnicholson/nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
+- [DerpFest-Devices/device_realme_RMX1921](https://github.com/DerpFest-Devices/device_realme_RMX1921) - 
+- [ArianK16a/rro-utils](https://github.com/ArianK16a/rro-utils) - 
+### 📫 How to reach me:
+  - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
