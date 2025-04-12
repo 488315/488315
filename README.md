@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/488315/488315/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/488315/488315/refs/heads/master/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 
