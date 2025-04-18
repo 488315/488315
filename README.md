@@ -22,8 +22,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [488315/build-soong](https://github.com/488315/build-soong) - 
-- [samsung-sm8550-tab/android_hardware_samsung](https://github.com/samsung-sm8550-tab/android_hardware_samsung) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
+- [samsung-sm8550-tab/android_hardware_samsung](https://github.com/samsung-sm8550-tab/android_hardware_samsung) - 
 - [mt8163/.github](https://github.com/mt8163/.github) - 
 - [minimal-systems/platform_system_core](https://github.com/minimal-systems/platform_system_core) - 
 
