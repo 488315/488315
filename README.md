@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [bucanero/pkgi-ps3](https://github.com/bucanero/pkgi-ps3) - A PlayStation 3 package download tool
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [LineageOS/android_device_qcom_sepolicy_vndr](https://github.com/LineageOS/android_device_qcom_sepolicy_vndr) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [charlesnicholson/nanoprintf](https://github.com/charlesnicholson/nanoprintf) - The smallest public printf implementation for its feature set.
-- [DerpFest-Devices/device_realme_RMX1921](https://github.com/DerpFest-Devices/device_realme_RMX1921) - 
-- [ArianK16a/rro-utils](https://github.com/ArianK16a/rro-utils) - 
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
