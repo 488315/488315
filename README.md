@@ -29,11 +29,11 @@
 
 ### 🌱 My latest projects
 
+- [488315/android_device_moto_common](https://github.com/488315/android_device_moto_common) - 
 - [488315/build-soong](https://github.com/488315/build-soong) - 
 - [488315/android_vendor_samsung_hardware-interfaces](https://github.com/488315/android_vendor_samsung_hardware-interfaces) - 
 - [488315/android_device_motorola_ellis](https://github.com/488315/android_device_motorola_ellis) - 
 - [488315/android_kernel_mediatek_mt6762](https://github.com/488315/android_kernel_mediatek_mt6762) - 
-- [488315/android_samsung_packages_apps_settings](https://github.com/488315/android_samsung_packages_apps_settings) - 
 
 ### 🔨 My recent Pull Requests
 
