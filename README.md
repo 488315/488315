@@ -22,10 +22,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [488315/android_kernel_qcom_sm8550](https://github.com/488315/android_kernel_qcom_sm8550) - 
-- [mt8163/android_kernel_amazon_karnak_4.9](https://github.com/mt8163/android_kernel_amazon_karnak_4.9) - 
 - [mt8163/android_device_amazon_karnak](https://github.com/mt8163/android_device_amazon_karnak) - 
-- [samsung-sm8550-tab/android_hardware_samsung](https://github.com/samsung-sm8550-tab/android_hardware_samsung) - 
+- [mt8163/android_kernel_amazon_karnak_4.9](https://github.com/mt8163/android_kernel_amazon_karnak_4.9) - 
 - [488315/build-soong](https://github.com/488315/build-soong) - 
+- [samsung-sm8550-tab/android_hardware_samsung](https://github.com/samsung-sm8550-tab/android_hardware_samsung) - 
 
 ### 🌱 My latest projects
 
