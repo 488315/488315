@@ -21,11 +21,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
+- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
 - [488315/android_kernel_qcom_sm8550](https://github.com/488315/android_kernel_qcom_sm8550) - 
-- [mt8163/android_kernel_amazon_karnak_4.9](https://github.com/mt8163/android_kernel_amazon_karnak_4.9) - 
 - [mt8163/android_device_amazon_karnak](https://github.com/mt8163/android_device_amazon_karnak) - 
+- [mt8163/android_kernel_amazon_karnak_4.9](https://github.com/mt8163/android_kernel_amazon_karnak_4.9) - 
 
 ### 🌱 My latest projects
 
