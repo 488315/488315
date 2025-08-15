@@ -21,11 +21,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees) - 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
-- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
+- [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
 - [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
+- [samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees) - 
+- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 
 ### 🌱 My latest projects
 
@@ -37,11 +37,11 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Derp15.1](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi/pull/4) on [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi)
-- [Derp15](https://github.com/DaViDev985/device_samsung_sm8550-common/pull/1) on [DaViDev985/device_samsung_sm8550-common](https://github.com/DaViDev985/device_samsung_sm8550-common)
-- [e3q: import dts from `S928BXXS4AXJB`](https://github.com/samsung-sm8650/android_kernel_samsung_sm8650-devicetrees/pull/1) on [samsung-sm8650/android_kernel_samsung_sm8650-devicetrees](https://github.com/samsung-sm8650/android_kernel_samsung_sm8650-devicetrees)
-- [ Add Samsung Tab commits to main tree ( Refreshed)](https://github.com/guckesh/android_device_samsung_sm8550-common/pull/2) on [guckesh/android_device_samsung_sm8550-common](https://github.com/guckesh/android_device_samsung_sm8550-common)
-- [Add Samsung Tab commits to main tree](https://github.com/guckesh/android_device_samsung_sm8550-common/pull/1) on [guckesh/android_device_samsung_sm8550-common](https://github.com/guckesh/android_device_samsung_sm8550-common)
+- [Fix Google Maps UI overlay issue](https://github.com/488315/488315.github.io/pull/5) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
+- [feat: add MD3 styled OSM map](https://github.com/488315/488315.github.io/pull/4) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
+- [feat: add MD3 styled OSM map](https://github.com/488315/488315.github.io/pull/3) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
+- [Build expressive md3 map with openstreetmap](https://github.com/488315/488315.github.io/pull/2) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
+- [Build expressive md3 map with openstreetmap](https://github.com/488315/488315.github.io/pull/1) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 
 ### ⭐ Recent Stars
 
