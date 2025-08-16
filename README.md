@@ -21,11 +21,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
+- [samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees) - 
 - [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
 - [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees) - 
-- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 
 ### 🌱 My latest projects
 
@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty &amp; Pentesting
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [aosp-mirror/platform_packages_apps_settings](https://github.com/aosp-mirror/platform_packages_apps_settings) - 
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [luk1337/lineageos-rootdir](https://github.com/luk1337/lineageos-rootdir) - 
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
