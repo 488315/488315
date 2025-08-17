@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty &amp; Pentesting
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [aosp-mirror/platform_packages_apps_settings](https://github.com/aosp-mirror/platform_packages_apps_settings) - 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
