@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [umidigi-mt6763-dev/android_device_umidigi_breeze](https://github.com/umidigi-mt6763-dev/android_device_umidigi_breeze) - Device configuration OSS for the UMIDIGI A5 Pro. Prebuilt stock kernel Android 9 (4.4.146)
+- [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) - Bootchain exploit for MediaTek devices
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty &amp; Pentesting
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
-- [aosp-mirror/platform_packages_apps_settings](https://github.com/aosp-mirror/platform_packages_apps_settings) - 
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
