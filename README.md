@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [chesseed/Cuber](https://github.com/chesseed/Cuber) - A signing tool for exploitable bootloaders
+- [R0rt1z2/bootloader-unlock-wall-of-shame](https://github.com/R0rt1z2/bootloader-unlock-wall-of-shame) - Keeping track of companies that &#34;care about your data 🥺&#34;
 - [umidigi-mt6763-dev/android_device_umidigi_breeze](https://github.com/umidigi-mt6763-dev/android_device_umidigi_breeze) - Device configuration OSS for the UMIDIGI A5 Pro. Prebuilt stock kernel Android 9 (4.4.146)
 - [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) - Bootchain exploit for MediaTek devices
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
-- [TakSec/chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty &amp; Pentesting
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
