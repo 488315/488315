@@ -21,11 +21,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
+- [488315/android_samsung_frameworks_base](https://github.com/488315/android_samsung_frameworks_base) - 
+- [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550-devicetrees) - 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
+- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
 
 ### 🌱 My latest projects
 
@@ -37,11 +37,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Add performance profile API and controller](https://github.com/488315/android_frameworks_base-derp/pull/1) on [488315/android_frameworks_base-derp](https://github.com/488315/android_frameworks_base-derp)
 - [Fix Google Maps UI overlay issue](https://github.com/488315/488315.github.io/pull/5) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 - [feat: add MD3 styled OSM map](https://github.com/488315/488315.github.io/pull/4) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 - [feat: add MD3 styled OSM map](https://github.com/488315/488315.github.io/pull/3) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 - [Build expressive md3 map with openstreetmap](https://github.com/488315/488315.github.io/pull/2) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
-- [Build expressive md3 map with openstreetmap](https://github.com/488315/488315.github.io/pull/1) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 
 ### ⭐ Recent Stars
 
