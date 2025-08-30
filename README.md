@@ -21,11 +21,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 - [488315/android_samsung_frameworks_base](https://github.com/488315/android_samsung_frameworks_base) - 
+- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 - [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
-- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
+- [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
 
 ### 🌱 My latest projects
 
@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📄🧠 PageIndex: Document Index for Reasoning-based RAG
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [ChaoticTrials/SimpleBackups](https://github.com/ChaoticTrials/SimpleBackups) - A simple mod to create scheduled backups
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
-- [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin.
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
