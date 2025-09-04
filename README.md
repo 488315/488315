@@ -21,11 +21,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [488315/android_samsung_frameworks_base](https://github.com/488315/android_samsung_frameworks_base) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
+- [dmXq-development/android_device_samsung_gts9wifi](https://github.com/dmXq-development/android_device_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
+- [488315/android_samsung_frameworks_base](https://github.com/488315/android_samsung_frameworks_base) - 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
 
 ### 🌱 My latest projects
 
