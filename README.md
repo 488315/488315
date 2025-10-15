@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [FanderWasTaken/wine-dependency-hell-solver](https://github.com/FanderWasTaken/wine-dependency-hell-solver) - A script to solve most issues while running software with Wine
 - [mt6768-mainline/linux](https://github.com/mt6768-mainline/linux) - Linux fork with patches for MediaTek MT6768 platform support.
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📄🧠 PageIndex: Document Index for Reasoning-based RAG
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
