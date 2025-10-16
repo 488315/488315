@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-- [FanderWasTaken/wine-dependency-hell-solver](https://github.com/FanderWasTaken/wine-dependency-hell-solver) - A script to solve most issues while running software with Wine
-- [mt6768-mainline/linux](https://github.com/mt6768-mainline/linux) - Linux fork with patches for MediaTek MT6768 platform support.
-- [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
