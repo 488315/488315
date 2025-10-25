@@ -21,9 +21,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
 - [488315/adb_web_tool](https://github.com/488315/adb_web_tool) - 
-- [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 - [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
 - [dmXq-development/android_device_samsung_gts9wifi](https://github.com/dmXq-development/android_device_samsung_gts9wifi) - 
 
