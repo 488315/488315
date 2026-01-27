@@ -22,8 +22,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
-- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
+- [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
 - [488315/adb_web_tool](https://github.com/488315/adb_web_tool) - 
 
@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9&#43;.
 - [joreilly/Confetti](https://github.com/joreilly/Confetti) - KMP/CMP GraphQL based conference project with Jetpack Compose Android, Compose for Wear, and Compose Multiplatform Desktop, Web and iOS clients along with GraphQL backend.
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
-- [android/tv-samples](https://github.com/android/tv-samples) - Multiple samples showing best practices in app development on Android TV.
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
