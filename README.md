@@ -45,11 +45,11 @@
 
 ### ⭐ Recent Stars
 
+- [balazspiller/ChatMeld](https://github.com/balazspiller/ChatMeld) - Free, Open-Source Playground for AI-to-AI Conversations
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by opencode
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9&#43;.
 - [joreilly/Confetti](https://github.com/joreilly/Confetti) - KMP/CMP GraphQL based conference project with Jetpack Compose Android, Compose for Wear, and Compose Multiplatform Desktop, Web and iOS clients along with GraphQL backend.
-- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - Modern Android client for Hacker News
 
 ### 📫 How to reach me:
   - XDA       : <https://xdaforums.com/m/kaijones23.9605864>
