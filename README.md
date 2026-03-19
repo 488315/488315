@@ -22,10 +22,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [mt8163/android_device_amazon_karnak](https://github.com/mt8163/android_device_amazon_karnak) - 
+- [mt8163/android_hardware_amazon](https://github.com/mt8163/android_hardware_amazon) - Amazon hardware HAL sources for MT8163 - LineageOS fork
 - [488315/488315.github.io](https://github.com/488315/488315.github.io) - 
 - [samsung-sm8550-tab/android_vendor_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_vendor_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
-- [samsung-sm8550-tab/android_kernel_samsung_sm8550](https://github.com/samsung-sm8550-tab/android_kernel_samsung_sm8550) - 
 
 ### 🌱 My latest projects
 
