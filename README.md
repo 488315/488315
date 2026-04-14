@@ -24,8 +24,8 @@
 - [samsung-sm8550-tab/android_device_samsung_gts9wifi](https://github.com/samsung-sm8550-tab/android_device_samsung_gts9wifi) - 
 - [samsung-sm8550-tab/android_device_samsung_sm8550-common](https://github.com/samsung-sm8550-tab/android_device_samsung_sm8550-common) - 
 - [mt8163/android_kernel_amazon_karnak_4.9](https://github.com/mt8163/android_kernel_amazon_karnak_4.9) - 
-- [mt8163/android_device_amazon_karnak](https://github.com/mt8163/android_device_amazon_karnak) - 
 - [mt8163/android_hardware_amazon](https://github.com/mt8163/android_hardware_amazon) - Amazon hardware HAL sources for MT8163 - LineageOS fork
+- [mt8163/android_device_amazon_karnak](https://github.com/mt8163/android_device_amazon_karnak) - 
 
 ### 🌱 My latest projects
 
