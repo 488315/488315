@@ -37,11 +37,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(SM-X710): use serial (-s) instead of IMEI (-i) for Wi-Fi-only tablet](https://github.com/488315/samsung-s23-fw/pull/3) on [488315/samsung-s23-fw](https://github.com/488315/samsung-s23-fw)
 - [Add performance profile API and controller](https://github.com/488315/android_frameworks_base-derp/pull/1) on [488315/android_frameworks_base-derp](https://github.com/488315/android_frameworks_base-derp)
 - [Fix Google Maps UI overlay issue](https://github.com/488315/488315.github.io/pull/5) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 - [feat: add MD3 styled OSM map](https://github.com/488315/488315.github.io/pull/4) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 - [feat: add MD3 styled OSM map](https://github.com/488315/488315.github.io/pull/3) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
-- [Build expressive md3 map with openstreetmap](https://github.com/488315/488315.github.io/pull/2) on [488315/488315.github.io](https://github.com/488315/488315.github.io)
 
 ### ⭐ Recent Stars
 
