@@ -47,7 +47,7 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [balazspiller/ChatMeld](https://github.com/balazspiller/ChatMeld) - Free, Open-Source Playground for AI-to-AI Conversations
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
 - [pakka-papad/Zen](https://github.com/pakka-papad/Zen) - Material You music player for android
 - [zyrouge/symphony](https://github.com/zyrouge/symphony) - 🎵 Lightweight, elegant music player for Android 9&#43;.
 
