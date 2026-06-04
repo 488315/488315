@@ -1,3 +1,32 @@
+## Hey, I'm Kai Jones
+
+Self-taught developer and aspiring SaaS founder. I work across Android, Linux systems, cybersecurity, and Python — building the technical foundation I need to eventually launch my own product.
+
+I'm hard of hearing and I bring a different perspective to how I approach problems and build things.
+
+---
+
+### 🛠️ What I work with
+
+| Area | Details |
+|---|---|
+| **Android / Kernel** | Device trees, kernel patches, custom ROM development |
+| **Cybersecurity** | Security review methodology, OWASP, responsible disclosure |
+| **Python** | Automation, scripting, tooling |
+| **Linux / Systems** | Embedded systems, low-level work, system administration |
+
+---
+
+### 🎯 What I'm focused on right now
+
+- Deepening my skills across security, systems, and automation
+- Laying the groundwork for a future SaaS product
+- Open-source contributions and building in public
+
+---
+
+### Connect with me
+
 <p align="left">
   <a href="https://www.github.com/488315" target="_blank" rel="noreferrer">
     <picture>
@@ -14,6 +43,8 @@
     </picture>
   </a>
 </p>
+
+---
 
 ### GitHub Stats
 
